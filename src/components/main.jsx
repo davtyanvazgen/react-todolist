@@ -1,5 +1,12 @@
 import React, { Component } from "react";
 
+//classneri methodner@
+//events click focus blur; error coder@
+//promisner promisneri cheinner
+//objectk
+//functions
+
+//materials css
 class Main extends Component {
   state = { itemValue: "" };
 
